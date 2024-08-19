@@ -14,6 +14,8 @@ I am particularly interested in autonomous driving, and my dream is to become a 
 To achieve this, I have served as the president of my university club, Kookmin Automotive Artificial Intelligence (KaAI), where I led various projects. 
 I am eager to learn and grow through the SEA:ME program.
 ## Project Links:
+- https://github.com/johook/SEA-ME-warm-up.git (SEA:ME Warm-up Program)
+  
 - https://github.com/KaAI-KMU/KaAI-PSI-Trajectory-Prediction  (Pedestrian Trajectory prediction)
 - https://github.com/johook/Data-Synchronization  (Synchronize Data for Driver Intention Prediction)
 - https://github.com/KaAI-KMU/KaAI-DD  (Driver Intention Prediction with Deep Learning Model)
